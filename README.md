@@ -129,14 +129,7 @@ Weapon system, AI địch, dialogue & quản lý scene
 
 <div align="center">
 
-## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.shion.dev/api?username=TTTaiii&theme=radical&hide_border=true&bg_color=2b1d4e&title_color=CBA3E8&text_color=ffffff&icon_color=8A2BE2" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=TTTaiii&theme=radical&hide_border=true&background=2b1d4e&stroke=8A2BE2&ring=CBA3E8&fire=CBA3E8&currStreakLabel=CBA3E8" height="165"/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TTTaiii&theme=radical&hide_border=true&bg_color=2b1d4e&title_color=CBA3E8&text_color=ffffff&layout=compact"/>
-
-</div>
 
 ---
 
