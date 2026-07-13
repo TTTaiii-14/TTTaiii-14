@@ -69,7 +69,7 @@ Sinh màn chơi ngẫu nhiên (Procedural), hệ thống điểm & vật phẩm
 
 <img src="https://img.shields.io/badge/Unity-8A2BE2?style=flat-square&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-8A2BE2?style=flat-square&logo=csharp&logoColor=white"/>
 
-[![Repo](https://img.shields.io/badge/Xem_repo_→-2b1d4e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TTTaiii/ten-repo-2)
+[![Repo](https://img.shields.io/badge/Xem_repo_→-2b1d4e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TTTaiii-14/Crown-Chase.git)
 
 </td>
 <td width="33%" align="center" valign="top">
